@@ -5,11 +5,15 @@
   - Infineon, PCB Layout guidelines for MOSFET gate driver, Infineon Technologies, 01/2018
   - Alan Huang, Infineon OptiMOS Power MOSFET Datasheet Explanation, Infineon Technologies, 03/2012
   - Reza Behtash, Sebastian Falhbush, Surabhi Hiremat, Sebastian Klötzer, Srikanth Yedehalli Lakshmeesha, Burkhard Laue, Nima Lotfi, Martin Röver, Guido Söhrn, Burkhard Stasik, Olaf Vogt, Diode Application Handbook, nexperia, 05/2022
+  - nexpreia, Zener Diodes Physical Basics, Parameters and Application Examples, nexperia, 10/2024
+  - Cathy Cox, Clayy Merritt, Microcontroller Oscillator Circuit Design Considerations, NXP, 2004
+  - RENESAS, Power MOSFET Applicaton Note, RENESAS, 12/2022
   - Laszlo Balog, Fundamentals of MOSFET and IGBT Gate Driver Circuits, Texas Instruments, 10/2018
  
 - EMI-EMC
   - Infineon, EMC and System-ESD Guidelines for Board Layout, Infineon Technologies, 02/2016
   - SCHAFFNER,  Basic in EMC/EMI and Power Quality, SCHAFFNER, 2013
+  - Masaaki Togashi, EMC Design for Power Lines - High Speed Digital Circuits, TDK
  
 - Filters
   - Ahmed Alamin, Ferrite Bead Basic Operations and Key Parameters, ABRACON LLC, 03/2023
