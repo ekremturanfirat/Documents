@@ -9,32 +9,39 @@
   - Cathy Cox, Clayy Merritt, Microcontroller Oscillator Circuit Design Considerations, NXP, 2004
   - RENESAS, Power MOSFET Applicaton Note, RENESAS, 12/2022
   - Laszlo Balog, Fundamentals of MOSFET and IGBT Gate Driver Circuits, Texas Instruments, 10/2018
- 
+    
+ ---
 - EMI-EMC
   - Infineon, EMC and System-ESD Guidelines for Board Layout, Infineon Technologies, 02/2016
   - SCHAFFNER,  Basic in EMC/EMI and Power Quality, SCHAFFNER, 2013
   - Masaaki Togashi, EMC Design for Power Lines - High Speed Digital Circuits, TDK
- 
+    
+ ---
 - Filters
   - Ahmed Alamin, Ferrite Bead Basic Operations and Key Parameters, ABRACON LLC, 03/2023
   - Common Mode Filter Design Guide
   - Andreas Nadler and Stefan Klein, 1-Phase Line Filter Design, WÜRTH ELEKTRONIK, 04/2024
- 
+    
+ ---
 - Motor Drivers
   - Texas Instruments, Best Practices for Board Layout of Motor Drivers, Texas Instruments, 10/2021
+
+  ---
  
 - Others
   - STM, Understanding and Minimising ADC Conversion Errors, STM
   - Tim Claycomb, Mamadou Diallo, Peter Iliya, Zak Kaye, Errol Leon, Marc Liu, Masashi Miyagawa, Gustaf Falk Olson, Bala Ravi, Takahiro Saito, Will Wang, Paul Grohe, Joe Vanacore, Chuck Sins, Tim Green, Pete Semig, Collin Wels, Analog Engineer's Circuit Coocbook: Amplifiers, Texas Instruments, 01/2019
   - Ichiro Itoi, Measurement and Calibration Techniques for Ultra-Low Current Measurement Systems, Texas Instruments, 11/2024
- 
+
+ ---
 - PCB Design
   - Infineon, PCB Layout guidelines for MOSFET gate driver, Infineon Technologies, 01/2018
   - Edward Lee, Rafael Garcia Mora, PCB Layout Design Guidelines for Analog Applications, NXP, 08/2010,
   - PCB Design Issues
   - ROHM Semiconductor, PCB Layout Thermal Design Guide, ROHM Semiconductor, 06/2022
   - Texas Instruments, Best Practices for Board Layout of Motor Drivers, Texas Instruments, 10/2021
- 
+
+ ---
 - Power Electronics
   - Alan Huang, Infineon OptiMOS Power MOSFET Datasheet Explanation, Infineon Technologies, 03/2012
   - Power Electronic Formula
