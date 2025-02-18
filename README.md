@@ -2,6 +2,7 @@
 
 - Components
   - Ahmed Alamin, Ferrite Bead Basic Operations and Key Parameters, ABRACON LLC, 03/2023
+  - Infineon, Crystal Oscillator Basics, İnfineon Technologies, 08/2012
   - Infineon, PCB Layout guidelines for MOSFET gate driver, Infineon Technologies, 01/2018
   - Alan Huang, Infineon OptiMOS Power MOSFET Datasheet Explanation, Infineon Technologies, 03/2012
   - Reza Behtash, Sebastian Falhbush, Surabhi Hiremat, Sebastian Klötzer, Srikanth Yedehalli Lakshmeesha, Burkhard Laue, Nima Lotfi, Martin Röver, Guido Söhrn, Burkhard Stasik, Olaf Vogt, Diode Application Handbook, nexperia, 05/2022
@@ -9,7 +10,10 @@
   - Cathy Cox, Clayy Merritt, Microcontroller Oscillator Circuit Design Considerations, NXP, 2004
   - RENESAS, Power MOSFET Applicaton Note, RENESAS, 12/2022
   - Laszlo Balog, Fundamentals of MOSFET and IGBT Gate Driver Circuits, Texas Instruments, 10/2018
-    
+  - Bruce Carter, L. P. Huelsman, Handbook Of Operational Amplifier Active RC Networks, Texas Instruments, 10/2021
+  - Nicholas Oborny, Ashish Ojha, Understanding Smart Gate Drive, Tecas Instruments, 03/2021
+  - John Wallace, Using MOSFET Safe Operating Area Curves in your Design, Texas Instruments, 03/2023
+
  ---
 - EMI-EMC
   - Infineon, EMC and System-ESD Guidelines for Board Layout, Infineon Technologies, 02/2016
@@ -20,6 +24,7 @@
 - Filters
   - Ahmed Alamin, Ferrite Bead Basic Operations and Key Parameters, ABRACON LLC, 03/2023
   - Common Mode Filter Design Guide
+  - Texas Instruments, Decoupling Capacitors
   - Andreas Nadler and Stefan Klein, 1-Phase Line Filter Design, WÜRTH ELEKTRONIK, 04/2024
     
  ---
@@ -44,7 +49,10 @@
  ---
 - Power Electronics
   - Alan Huang, Infineon OptiMOS Power MOSFET Datasheet Explanation, Infineon Technologies, 03/2012
+  - NXP, Battery Management System, NXP, 12/2023
   - Power Electronic Formula
+  - ROHM Semiconductor, SiC MOSFET Snubber Circuit Design Methods, ROHM Semiconductor 04/2020
+  - Benjamin Lough, AC Ripple Rejection in AC/DC Systems Using LLC, Texass Instruments 10/2017
   - Brigitte Hauke, Basic Calculation of a Buck Converter's Power Stage, Texas Instruments, 08/2015
   - Aki Li, Benjamin Genereaux, Bosheng  Sun, Brent McDonald, Brian King, Desheng Guo, John Betten, John Dorosa, Josh Mandelcorn, Pradeep Shenoy, Richard Yin, Robert Kollman, Robert Taylor, Sheng-Yang Yu, Best of Power Tips, Texas Instruments, 10/2017
   - Texas Instruments, Engineer's Guide to Power Topologies, Texas Instruments,
